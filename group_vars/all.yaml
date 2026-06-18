@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.sujitha-daws.online
+REDIS_HOST: redis.sujitha-daws.online
+MYSQL_HOST: mysql.sujitha-daws.online
+RABBITMQ_HOST: rabbitmq.sujitha-daws.online
+CATALOGUE_HOST: catalogue.sujitha-daws.online
+USER_HOST: user.sujitha-daws.online
+CART_HOST: cart.sujitha-daws.online
+SHIPPING_HOST: shipping.sujitha-daws.online
+PAYMENT_HOST: payment.sujitha-daws.online
